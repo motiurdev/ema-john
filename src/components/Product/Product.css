@@ -23,3 +23,8 @@
     border-radius: 5px;
     cursor: pointer;
 }
+
+.icon-color {
+    color: goldenrod;
+    margin: 8px 0;
+}
