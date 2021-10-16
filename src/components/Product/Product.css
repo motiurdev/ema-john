@@ -1,0 +1,25 @@
+.product {
+    display: flex;
+    border-bottom: 1px solid gainsboro;
+    margin-right: 8px;
+    padding-bottom: 10px;
+}
+
+.product .content {
+    margin-left: 20px;
+}
+
+
+.product .content h3:first-child {
+    color: blue;
+    font-weight: 400;
+}
+
+.btn-regular {
+    background-color: goldenrod;
+    width: 150px;
+    height: 25px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    cursor: pointer;
+}
